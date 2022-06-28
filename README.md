@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dosJunkie
 - 👀 I’m interested in Networking, RedTeaming, Security, Cloud, DevSecOps, Automation, Python, and Blockchain.
-- 🌱 I’m currently learning Cloud Red Teaming, OSCP, CISSP, and BlockChain 
-- I will Study for my CCIE after I pass my CISSP and OSCP 
+- 🌱 I’m currently heavy in Ethical Hacking and Red Teaming and building and hacking on blockchain. 
+- Studying for OSCP
